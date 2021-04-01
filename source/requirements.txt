@@ -1,0 +1,5 @@
+sanic==20.9.1
+mongoengine==0.21.0
+bcrypt==3.2.0
+blinker==1.4
+PyJWT==1.7.1
